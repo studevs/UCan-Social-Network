@@ -22,7 +22,5 @@
                 <li><a href="#"><i class="fa fa-sign-in w3-xxxlarge"></i></a></li>
             </ul>
         </div>
-        
-        <div class="w3-blue w3-text-white w3-hover w3-hover-green">hguggfjgfju</div>
     </body>
 </html>
